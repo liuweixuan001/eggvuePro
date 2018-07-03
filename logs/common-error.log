@@ -1,0 +1,96 @@
+2018-06-29 17:05:35,855 ERROR 18160 [-/127.0.0.1/-/23ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find app/app.js from E:\demos\eggVuePro\app\view
+    at Map.resolve (E:\demos\eggVuePro\node_modules\egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 18160
+hostname: DESKTOP-A4O62GS
+
+2018-06-29 17:09:18,230 ERROR 2396 [-/127.0.0.1/-/20ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find app/app.js from E:\demos\eggVuePro\app\view
+    at Map.resolve (E:\demos\eggVuePro\node_modules\egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 2396
+hostname: DESKTOP-A4O62GS
+
+2018-06-29 17:11:03,908 ERROR 6444 [-/127.0.0.1/-/17ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find app/app.js from E:\demos\eggVuePro\app\view
+    at Map.resolve (E:\demos\eggVuePro\node_modules\egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 6444
+hostname: DESKTOP-A4O62GS
+
+2018-06-29 17:11:07,585 ERROR 6444 [-/127.0.0.1/-/2ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find app/app.js from E:\demos\eggVuePro\app\view
+    at Map.resolve (E:\demos\eggVuePro\node_modules\egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 6444
+hostname: DESKTOP-A4O62GS
+
+2018-06-29 17:32:21,833 ERROR 10088 [-/127.0.0.1/-/17ms GET /index] nodejs.AssertionError [ERR_ASSERTION]: Can't find app/app.js from E:\demos\eggVuePro\app\view
+    at Map.resolve (E:\demos\eggVuePro\node_modules\egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 10088
+hostname: DESKTOP-A4O62GS
+
+2018-06-29 17:32:27,215 ERROR 10088 [-/127.0.0.1/-/2ms GET /detail] nodejs.AssertionError [ERR_ASSERTION]: Can't find app/app.js from E:\demos\eggVuePro\app\view
+    at Map.resolve (E:\demos\eggVuePro\node_modules\egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 10088
+hostname: DESKTOP-A4O62GS
+
+2018-06-29 17:32:37,626 ERROR 10088 [-/127.0.0.1/-/1ms GET /list] nodejs.AssertionError [ERR_ASSERTION]: Can't find app/app.js from E:\demos\eggVuePro\app\view
+    at Map.resolve (E:\demos\eggVuePro\node_modules\egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 10088
+hostname: DESKTOP-A4O62GS
+
+2018-07-02 10:09:13,875 ERROR 8072 [-/127.0.0.1/-/19ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find app/app.js from E:\demos\eggVuePro\app\view
+    at Map.resolve (E:\demos\eggVuePro\node_modules\egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 8072
+hostname: DESKTOP-A4O62GS
+

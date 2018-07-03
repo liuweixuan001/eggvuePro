@@ -1,0 +1,323 @@
+{
+  "siteFile": {
+    "/favicon.ico": "E:\\demos\\eggVuePro\\config\\config.default.js"
+  },
+  "view": {
+    "cache": "E:\\demos\\eggVuePro\\config\\config.default.js",
+    "root": "E:\\demos\\eggVuePro\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultExtension": "E:\\demos\\eggVuePro\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\demos\\eggVuePro\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": {
+      ".js": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+    }
+  },
+  "vuessr": {
+    "layout": "E:\\demos\\eggVuePro\\config\\config.default.js",
+    "renderOptions": {
+      "basedir": "E:\\demos\\eggVuePro\\config\\config.default.js",
+      "runInNewContext": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "doctype": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "manifest": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectHeadRegex": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectBodyRegex": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectCss": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectJs": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectRes": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "crossorigin": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "mergeLocals": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "fallbackToClient": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "cache": {
+      "max": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+      "maxAge": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "afterRender": "E:\\demos\\eggVuePro\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "E:\\demos\\eggVuePro\\config\\config.default.js",
+    "dir": "E:\\demos\\eggVuePro\\config\\config.default.js",
+    "encoding": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "allowDebugAtProd": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\demos\\eggVuePro\\config\\config.default.js",
+    "dir": "E:\\demos\\eggVuePro\\config\\config.default.js",
+    "dynamic": "E:\\demos\\eggVuePro\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\demos\\eggVuePro\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\demos\\eggVuePro\\node_modules\\egg-static\\config\\config.prod.js",
+    "maxFiles": "E:\\demos\\eggVuePro\\node_modules\\egg-static\\config\\config.default.js",
+    "maxAge": "E:\\demos\\eggVuePro\\node_modules\\egg-static\\config\\config.prod.js"
+  },
+  "keys": "E:\\demos\\eggVuePro\\config\\config.default.js",
+  "middleware": "E:\\demos\\eggVuePro\\config\\config.default.js",
+  "session": {
+    "maxAge": "E:\\demos\\eggVuePro\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\demos\\eggVuePro\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\demos\\eggVuePro\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\demos\\eggVuePro\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "maxAge": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "E:\\demos\\eggVuePro\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\demos\\eggVuePro\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\demos\\eggVuePro\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\demos\\eggVuePro\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\demos\\eggVuePro\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\demos\\eggVuePro\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\demos\\eggVuePro\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\demos\\eggVuePro\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\demos\\eggVuePro\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\demos\\eggVuePro\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\demos\\eggVuePro\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\demos\\eggVuePro\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\demos\\eggVuePro\\node_modules\\egg-watcher\\config\\config.default.js",
+    "eventSources": {
+      "default": "E:\\demos\\eggVuePro\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\demos\\eggVuePro\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "E:\\demos\\eggVuePro\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\demos\\eggVuePro\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\demos\\eggVuePro\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\demos\\eggVuePro\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\demos\\eggVuePro\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\demos\\eggVuePro\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\demos\\eggVuePro\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\demos\\eggVuePro\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\demos\\eggVuePro\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\demos\\eggVuePro\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\demos\\eggVuePro\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\demos\\eggVuePro\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\demos\\eggVuePro\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\demos\\eggVuePro\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\demos\\eggVuePro\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\demos\\eggVuePro\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\demos\\eggVuePro\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\demos\\eggVuePro\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "env": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "debug": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "build": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "build:dev": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "build:test": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "build:prod": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "start": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "fix": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "ii": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "axios": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "cross-env": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "egg": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "egg-logger": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-vue-ssr": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "element-ui": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "extend": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "mint-ui": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "mockjs": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "moment": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "vue": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "vue-hot-reload-api": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "vue-router": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "vuex": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "vuex-router-sync": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "autoprefixer": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-add-module-exports": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-syntax-dynamic-import": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-object-assign": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-object-rest-spread": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-runtime": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "babel-preset-env": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "easywebpack-cli": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "easywebpack-vue": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "egg-logview": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack-vue": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-vue": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "imagemin-webpack-plugin": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "ip": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "less": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "less-loader": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "node-sass": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "sass-loader": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "uglifyjs-webpack-plugin": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "vconsole": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "homepage": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\demos\\eggVuePro\\node_modules\\egg\\config\\config.default.js"
+}
